@@ -1,0 +1,8 @@
+Input: "We found good accommodation." Label: True
+Input: "We found good accomodation." Label: False
+Input: "We should separate the fact and expectation." Label: True
+Input: "We should seperate the fact and expectation." Label: False
+Input: "I receive the parcels." Label: True
+Input: "I recieve the parsels." Label: False
+Input: "The incident occurred last night." Label: True
+Input: "The incident occured last night." Label: False

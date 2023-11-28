@@ -1,0 +1,10 @@
+Input: "All birds can fly; penguins are birds; therefore, penguins can fly." Label: False
+Input: "Gold is lighter than water; a gold ring is made of gold; therefore, a gold ring will float in water." Label: False
+Input: "Humans can survive without breathing; John is a human; therefore, John can survive without breathing." Label: False
+Input: "The moon is made of green cheese; anything made of green cheese is delicious; therefore, the moon is delicious." Label: False
+Input: "If it rains, the ground gets wet; the ground is wet; therefore, it must have rained." Label: False
+Input: "All cats are animals, so all animals are cats." Label: False
+Input: "If the sun rises in the west, then the earth rotates in the opposite direction." Label: False
+Input: "A square is a rectangle, therefore all rectangles are squares." Label: False
+Input: "Mercury is the closest planet to the Sun, so it must be the warmest." Label: False
+Input: "Gold is heavier than feathers, so a pound of gold weighs more than a pound of feathers." Label: False

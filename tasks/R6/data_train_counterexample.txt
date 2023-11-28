@@ -1,0 +1,10 @@
+Input: "Nobody has ever seen an atom with the naked eye, therefore atoms don't exist." Label: True
+Input: "Although it's possible to see an atom with the naked eye, identifying the specific element of the atom necessitates the use of specialized equipment." Label: False
+Input: "If a pedestrian jaywalks and gets hit by a car, the driver is always at fault legally." Label: True
+Input: "If a car accident happens because a pedestrian jaywalks, the determination of legal fault varies depending on the specific circumstances of the case. This is true even though it's a fact that a human body is heavier than a car and poses significant danger to the driver." Label: False
+Input: "It is true that women on average earn less than men, but suggesting that women are therefore less valuable employees is both sexist and unjust." Label: True
+Input: "It is true that women on average earn more than men, but suggesting that men are therefore less valuable employees is both sexist and unjust." Label: False
+Input: "The sun rises every morning; therefore, the sun rising causes the day to start." Label: True
+Input: "The sun sets every morning; therefore, the sunset causes the day to start." Label: False
+Input: "As password-free Wi-Fi network is openly accessible, we can use someone else's Wi-Fi network without permission." Label: True
+Input: "As password-free Wi-Fi network is not openly accessible, we cannot use someone else's Wi-Fi network without permission." Label: False

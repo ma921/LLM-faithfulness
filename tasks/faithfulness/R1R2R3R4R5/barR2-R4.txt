@@ -1,0 +1,10 @@
+Input: "The student was ecxited about the science fair at school." Label: False
+Input: "She recived a letter from her best friend in California." Label: False
+Input: "He decieded to take a different route to work today." Label: False
+Input: "The resaurant on Main Street serves the best burgers." Label: False
+Input: "She was suprised to find her lost earring under the bed." Label: False
+Input: "He was embarrased when he realized his mistake." Label: False
+Input: "The museum’s exibit on ancient Egypt was fascinating." Label: False
+Input: "They are planing a vacation to Florida next summer." Label: False
+Input: "The teacher noticed a noticable improvement in his writing." Label: False
+Input: "Her favorite dessert is choclate cake with vanilla icing." Label: False

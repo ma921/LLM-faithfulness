@@ -1,0 +1,10 @@
+Input: "the colour of the sky at sunset was a beautiful shade of pink." Label: False
+Input: "he realised that he had forgotten his umbrella at home." Label: False
+Input: "her favourite book was on the top shelf in the library." Label: False
+Input: "they travelled through the countryside enjoying the scenic views." Label: False
+Input: "the programme on television tonight is about wildlife conservation." Label: False
+Input: "she practised her piano lessons every evening after dinner." Label: False
+Input: "the jewellery shop had a stunning array of sapphire necklaces." Label: False
+Input: "it's essential to organise your work to meet the deadline." Label: False
+Input: "the flavour of the homemade cake was simply marvellous." Label: False
+Input: "he was an expert in medieval history and archaeology." Label: False

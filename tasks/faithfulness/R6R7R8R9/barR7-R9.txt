@@ -1,0 +1,10 @@
+Input: "A person can legally own a plot of land on the Moon according to a company's lunar real estate sales, even though international law prohibits any country from claiming sovereignty over extraterrestrial bodies." Label: False
+Input: "In some jurisdictions, a corporation is considered a legal person with rights and liabilities, despite it being an abstract entity and not a living being." Label: False
+Input: "A 20-year-old in the United States can be legally responsible for flying a commercial airplane but is prohibited from purchasing alcohol, even though both responsibilities require a high level of maturity and judgment." Label: False
+Input: "Under maritime law, a ship can be legally considered a person who can own property, sue, and be sued, which defies the logical definition of personhood." Label: False
+Input: "An individual can legally disinherit their biological children in favor of leaving their entire estate to a pet animal, despite the logical expectation of family inheritance." Label: False
+Input: "A driver can legally be issued a speeding ticket based on the readings of a speed camera, even if no human witnessed the speeding, challenging the logical need for human observation in legal evidence." Label: False
+Input: "In some legal systems, an individual can be found not guilty by reason of insanity for a crime, even if they consciously committed the act, separating legal culpability from the logical sequence of action and consequence." Label: False
+Input: "Legally, a dead person can be deemed to have been 'legally alive' at the time of their death for estate or inheritance purposes, contradicting the logical understanding of life and death." Label: False
+Input: "A person can legally change their date of birth by court order, even though logically, the actual date of their birth remains unaltered." Label: False
+Input: "Under adverse possession laws, a person can legally become the owner of a property by occupying it without the owner's permission for a certain period, which is logically akin to rewarding trespassing." Label: False

@@ -1,0 +1,10 @@
+Input: "The colour of her dress matched her eyes perfectly." Label: False
+Input: "He realised the solution to the problem just in time." Label: False
+Input: "The programme on wildlife was incredibly informative." Label: False
+Input: "Her favourite subject at school is maths." Label: False
+Input: "They travelled to Paris for their holiday." Label: False
+Input: "The shop specialises in bespoke furniture." Label: False
+Input: "The theatre was filled to capacity for the play." Label: False
+Input: "She practises the piano for an hour every day." Label: False
+Input: "The aeroplane flew over the city, offering a spectacular view." Label: False
+Input: "The grey clouds indicated that rain was imminent." Label: False

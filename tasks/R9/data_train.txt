@@ -1,0 +1,10 @@
+Input: "Filing and paying taxes accurately and on time." Label: True
+Input: "Intentionally not declaring income to avoid paying taxes." Label: False
+Input: "Stopping at a red light while driving." Label: True
+Input: "Driving over the speed limit on a highway." Label: False
+Input: "Obtaining a proper license before starting a business." Label: True
+Input: "Running a food business from home without a health and safety certification." Label: False
+Input: "Disposing of hazardous waste as per environmental protection guidelines." Label: True
+Input: "Disposing of factory waste in a non-designated area." Label: False
+Input: "Paying for licensed software instead of using pirated versions." Label: True
+Input: "Downloading movies from an unauthorized website." Label: False

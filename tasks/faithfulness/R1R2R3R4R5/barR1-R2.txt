@@ -1,0 +1,10 @@
+Input: "The QUICK BROWN FOX jumps over the lazy dog." Label: False
+Input: "Every GOOD book contains a world far DEEPER than the surface of its pages." Label: False
+Input: "AUTUMN leaves fall gracefully, painting the ground in shades of ORANGE and RED." Label: False
+Input: "Science seeks to UNDERSTAND the universe and its MYSTERIES." Label: False
+Input: "History is a GUIDE to navigate in perilous times, and it teaches us to UNDERSTAND our past." Label: False
+Input: "MUSIC brings HARMONY to the soul and sparks IMAGINATION." Label: False
+Input: "ARTISTS draw inspiration from the BEAUTY of the world around them." Label: False
+Input: "EDUCATION is the passport to the FUTURE, for tomorrow belongs to those who prepare for it today." Label: False
+Input: "In every WALK with nature, one receives far more than he SEEKS." Label: False
+Input: "TRUE FRIENDSHIP is a treasure of immeasurable VALUE and STRENGTH." Label: False

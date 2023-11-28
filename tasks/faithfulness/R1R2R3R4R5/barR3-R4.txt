@@ -1,0 +1,10 @@
+Input: "She don't like going to the movies on weekends." Label: False
+Input: "He didn't went to the store yesterday." Label: False
+Input: "We was excited about the baseball game." Label: False
+Input: "They is planning a trip to New York next month." Label: False
+Input: "Her likes to read mystery novels." Label: False
+Input: "You and I goes to the same school." Label: False
+Input: "Does she has a pen I can borrow?" Label: False
+Input: "Him and I are in the same class." Label: False
+Input: "The dogs barks loudly every night." Label: False
+Input: "There's too many books on the shelf." Label: False

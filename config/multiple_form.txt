@@ -1,0 +1,10 @@
+Can you select the correct classification rule used in the previous examples from the following seven possible rules? Return the number of classification rule.
+1. The sentences contain the upper case or not.
+2. The sentences contain misspelling or not.
+3. The sentences contain grammatical errors or not.
+4. The sentences are British English or not.
+5. The word order is grammatically correct or not.
+6. The sentences are factually correct or not.
+7. The sentences are logically correct or not.
+8. The sentences are ethically correct or not.
+9. The sentences are legally correct or not.

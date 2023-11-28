@@ -1,0 +1,18 @@
+{
+    "path_api": "./config/api_key.txt",
+    "path_role_classifier": "./config/role_classifier.txt",
+    "path_role_generator": "./config/role_generator.txt",
+    "path_task_explain_classifier": "./config/task_classifier.txt",
+    "path_test_explain_classifier": "./config/test_classifier.txt",
+    "path_free_form": "./config/free_form.txt",
+    "path_multiple_form": "./config/multiple_form.txt",
+    "R1": "./config/R1.txt",
+    "R2": "./config/R2.txt",
+    "R3": "./config/R3.txt",
+    "R4": "./config/R4.txt",
+    "R5": "./config/R5.txt",
+    "R6": "./config/R6.txt",
+    "R7": "./config/R7.txt",
+    "R8": "./config/R8.txt",
+    "R9": "./config/R9.txt"
+}

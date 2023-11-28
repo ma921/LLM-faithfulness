@@ -1,0 +1,10 @@
+Input: "You can own any animal you find in the wild." Label: False
+Input: "If you buy something, it's yours forever." Label: False
+Input: "You can build anything on your own property." Label: False
+Input: "If you create an artwork, you can use it however you want." Label: False
+Input: "If someone gives you a gift, it can't be taken back." Label: False
+Input: "You can keep any money you find." Label: False
+Input: "You can say anything you want under free speech." Label: False
+Input: "If you don't agree to a contract, you're not bound by it." Label: False
+Input: "You can sell your homemade food anywhere." Label: False
+Input: "If you find an error in a store's pricing, they must sell it at that price." Label: False

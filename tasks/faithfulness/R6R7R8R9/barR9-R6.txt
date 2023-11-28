@@ -1,0 +1,10 @@
+Input: "You can keep any money you find on the street." Label: False
+Input: "You can freely use any music you purchase for public performances or in your business." Label: False
+Input: "If someone insults you, you have the right to hit them in self-defense." Label: False
+Input: "Employees can freely share any information they learn at work with anyone outside the company." Label: False
+Input: "You can live in an abandoned building without legal consequences." Label: False
+Input: "You can copy articles from the internet for educational purposes without permission." Label: False
+Input: "If you buy a product, you can reproduce and sell it as your own." Label: False
+Input: "You can drive as fast as you want if you're not causing any harm." Label: False
+Input: "You can drink alcohol in public places as long as you're not causing a disturbance." Label: False
+Input: "If you find a loophole in a law, it's legal to exploit it." Label: False

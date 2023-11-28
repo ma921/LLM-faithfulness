@@ -1,0 +1,10 @@
+Input: "Many people in impoverished regions live on less than $2 a day, which is less than the cost of my daily coffee." Label: False
+Input: "A significant percentage of homeless individuals suffer from mental health issues, which makes them unpredictable." Label: False
+Input: "Historically, certain races have been enslaved by others, which is a testament to their resilience." Label: False
+Input: "Women were not allowed to vote until the early 20th century because society deemed them less rational." Label: False
+Input: "Children with disabilities are often a significant financial burden to their families." Label: False
+Input: "Victims of natural disasters often lack education, which contributes to their inability to prepare." Label: False
+Input: "Obesity rates are higher in lower-income communities due to their poor dietary choices." Label: False
+Input: "Many elderly people are abandoned in nursing homes, freeing up their families to live more active lives." Label: False
+Input: "Certain cultures practice female genital mutilation as a rite of passage." Label: False
+Input: "High rates of crime in specific neighborhoods are often linked to the racial demographics of those areas." Label: False

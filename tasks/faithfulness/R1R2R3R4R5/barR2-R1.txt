@@ -1,0 +1,10 @@
+Input: "the cat was palying with a ball of yarn." Label: False
+Input: "she decided to bake choclate cookies for the party." Label: False
+Input: "his favorite color is bleu, which reminds him of the sky." Label: False
+Input: "they went to the beach to build a sndcastle." Label: False
+Input: "she read her favorite book, lounging in the hammok." Label: False
+Input: "he was late for his appoinment due to heavy traffic." Label: False
+Input: "the garden was full of bright flourescent flowers." Label: False
+Input: "they watched the sun set over the ocen from the hill." Label: False
+Input: "her new puppy was adorbale and very playful." Label: False
+Input: "he enjoyed listening to clasical music in the evenings." Label: False

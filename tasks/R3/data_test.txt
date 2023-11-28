@@ -1,0 +1,150 @@
+Input: "The dogs plays in the park." Label: False
+Input: "The dog plays in the park." Label: True
+Input: "My favorite color be blue." Label: False
+Input: "My favorite color is blue." Label: True
+Input: "I goes to the store on Sundays." Label: False
+Input: "I go to the store on Sundays." Label: True
+Input: "Sarah and I goes for a walk daily." Label: False
+Input: "Sarah and I go for a walk daily." Label: True
+Input: "Football are a popular sport." Label: False
+Input: "Football is a popular sport." Label: True
+Input: "You sees what I mean." Label: False
+Input: "You see what I mean." Label: True
+Input: "The cat love to chase her tail." Label: False
+Input: "The cat loves to chase her tail." Label: True
+Input: "She doesn't has a car." Label: False
+Input: "She doesn't have a car." Label: True
+Input: "They enjoys a good movie." Label: False
+Input: "They enjoy a good movie." Label: True
+Input: "The buildings was very high." Label: False
+Input: "The building was very high." Label: True
+Input: "He don't like broccoli." Label: False
+Input: "He doesn't like broccoli." Label: True
+Input: "The restaurant are popular among the locals." Label: False
+Input: "The restaurant is popular among the locals." Label: True
+Input: "He do his chores everyday." Label: False
+Input: "He does his chores every day." Label: True
+Input: "They runs a successful business." Label: False
+Input: "They run a successful business." Label: True
+Input: "Her teeth is white." Label: False
+Input: "Her teeth are white." Label: True
+Input: "She can plays the piano well." Label: False
+Input: "She can play the piano well." Label: True
+Input: "They goes to the mall every Sunday." Label: False
+Input: "They go to the mall every Sunday." Label: True
+Input: "He have three pencils." Label: False
+Input: "He has three pencils." Label: True
+Input: "The cars is fast." Label: False
+Input: "The car is fast." Label: True
+Input: "She walks to school every mornings." Label: False
+Input: "She walks to school every morning." Label: True
+Input: "I doesn't like spinach." Label: False
+Input: "I don't like spinach." Label: True
+Input: "The students with their teacher was at the museum." Label: False
+Input: "The students with their teacher were at the museum." Label: True
+Input: "We loves to play soccer." Label: False
+Input: "We love to play soccer." Label: True
+Input: "I studies Spanish every day." Label: False
+Input: "I study Spanish every day." Label: True
+Input: "He don't eat meat." Label: False
+Input: "He doesn't eat meat." Label: True
+Input: "The dogs barks at the mailman." Label: False
+Input: "The dog barks at the mailman." Label: True
+Input: "They visits their grandma once a month." Label: False
+Input: "They visit their grandma once a month." Label: True
+Input: "You has a bright smile." Label: False
+Input: "You have a bright smile." Label: True
+Input: "I feels so tired." Label: False
+Input: "I feel so tired." Label: True
+Input: "They eats spicy food." Label: False
+Input: "They eat spicy food." Label: True
+Input: "Each of boys should brings his own lunch." Label: False
+Input: "Each boy should bring his own lunch." Label: True
+Input: "She writes beautifully letter." Label: False
+Input: "She writes beautiful letters." Label: True
+Input: "He don't knows the way to the library." Label: False
+Input: "He doesn't know the way to the library." Label: True
+Input: "My friends likes to go camping" Label: False
+Input: "My friends like to go camping." Label: True
+Input: "The boy runs fastly." Label: False
+Input: "The boy runs fast." Label: True
+Input: "She enjoys to cook." Label: False
+Input: "She enjoys cooking." Label: True
+Input: "You needs to clean your room." Label: False
+Input: "You need to clean your room." Label: True
+Input: "He can plays the piano very well." Label: False
+Input: "He can play the piano very well." Label: True
+Input: "It's rain outside." Label: False
+Input: "It's raining outside." Label: True
+Input: "The birds flies in the sky." Label: False
+Input: "The bird flies in the sky." Label: True
+Input: "The teachers is in the classroom." Label: False
+Input: "The teacher is in the classroom." Label: True
+Input: "I goes to the gym every day." Label: False
+Input: "I go to the gym every day." Label: True
+Input: "He don't have any brothers." Label: False
+Input: "He doesn't have any brothers." Label: True
+Input: "They enjoys watching movies." Label: False
+Input: "They enjoy watching movies." Label: True
+Input: "Her hair are beautiful." Label: False
+Input: "Her hair is beautiful." Label: True
+Input: "The cat chases it's tail." Label: False
+Input: "The cat chases its tail." Label: True
+Input: "My sister have a dog." Label: False
+Input: "My sister has a dog." Label: True
+Input: "I has a new bicycle." Label: False
+Input: "I have a new bicycle." Label: True
+Input: "They doesn't play video games." Label: False
+Input: "They don't play video games." Label: True
+Input: "He want to be a doctor." Label: False
+Input: "He wants to be a doctor." Label: True
+Input: "I am enjoys reading books." Label: False
+Input: "I enjoy reading books." Label: True
+Input: "They lives in New York." Label: False
+Input: "They live in New York." Label: True
+Input: "She like to paint." Label: False
+Input: "She likes to paint." Label: True
+Input: "It's your's book." Label: False
+Input: "It's your book." Label: True
+Input: "I can speaks French." Label: False
+Input: "I can speak French." Label: True
+Input: "He don't have a car." Label: False
+Input: "He doesn't have a car." Label: True
+Input: "The car have a flat tire." Label: False
+Input: "The car has a flat tire." Label: True
+Input: "My friends is coming to the party." Label: False
+Input: "My friends are coming to the party." Label: True
+Input: "She needs a furnitures for her new house." Label: False
+Input: "She needs furniture for her new house." Label: True
+Input: "I lost mines key." Label: False
+Input: "I lost my key." Label: True
+Input: "He don't likes vegetables." Label: False
+Input: "He doesn't like vegetables." Label: True
+Input: "I goes to bed early." Label: False
+Input: "I go to bed early." Label: True
+Input: "She can plays the guitar." Label: False
+Input: "She can play the guitar." Label: True
+Input: "The students doesn't study for the test." Label: False
+Input: "The students didn't study for the test." Label: True
+Input: "I wents to the concert last night." Label: False
+Input: "I went to the concert last night." Label: True
+Input: "He have a beautiful painting." Label: False
+Input: "He has a beautiful painting." Label: True
+Input: "The family have a big house." Label: False
+Input: "The family has a big house." Label: True
+Input: "They doesn't know the answer." Label: False
+Input: "They don't know the answer." Label: True
+Input: "She take a bath every day." Label: False
+Input: "She takes a bath every day." Label: True
+Input: "The birds sings beautifully." Label: False
+Input: "The bird sings beautifully." Label: True
+Input: "John and I goes to the same school." Label: False
+Input: "John and I go to the same school." Label: True
+Input: "I doesn't want to go there." Label: False
+Input: "I don't want to go there." Label: True
+Input: "The cat chasing it's tail." Label: False
+Input: "The cat is chasing its tail." Label: True
+Input: "They travels to Paris." Label: False
+Input: "They traveled to Paris." Label: True
+Input: "She can speaks three languages." Label: False
+Input: "She can speak three languages." Label: True

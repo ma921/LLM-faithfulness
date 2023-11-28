@@ -1,0 +1,10 @@
+Input: "A corporation is a person." Label: False
+Input: "Silence can be considered an agreement." Label: False
+Input: "A dead person can sue or be sued." Label: False
+Input: "An imaginary friend can be a witness to a will." Label: False
+Input: "Money can be considered speech." Label: False
+Input: "A contract can exist without being written." Label: False
+Input: "Truth can be defamatory." Label: False
+Input: "You can legally own a piece of the moon." Label: False
+Input: "An invisible object can cause harm." Label: False
+Input: "A child can be an adult." Label: False

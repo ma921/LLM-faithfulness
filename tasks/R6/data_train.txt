@@ -1,0 +1,10 @@
+Input: "The major material consisting the human body is water." Label: True
+Input: "The metal is insulator." Label: False
+Input: "A dictionary is a book." Label: True
+Input: "Japan is one of states in the USA." Label: False
+Input: "The earth is the third planet in the solar system." Label: True
+Input: "Eric Clapton is the inventor of engine." Label: False
+Input: "The imitation game is the film about Alan Turing." Label: True
+Input: "007 is the film about heartwarming animal documentary." Label: False
+Input: "The centre of the earth is melted iron." Label: True
+Input: "Titan is a word for a small person." Label: False

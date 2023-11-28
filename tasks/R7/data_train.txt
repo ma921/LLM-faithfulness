@@ -1,0 +1,10 @@
+Input: "If we multiply 2 and 3, it becomes 6." Label: True
+Input: "If Jill departs the workplace before Jack does, Jack has finished the work earlier than Jill." Label: False
+Input: "If A equals to B and B equals to C, A equals to C." Label: True
+Input: "If 5 pigeons are put into 4 nests, there are no nests contain more than one pigeon." Label: False
+Input: "The prime factorization of 6 is 2 times 3." Label: True
+Input: "When the number of a cat person is 10 and one of a dog person is 6, the total number of people must be 16 without exception." Label: False
+Input: "I am in Paris, so I am in France." Label: True
+Input: "If it is not cold, then I will not wear a coat. I am wearing a coat, thus it is not cold." Label: False
+Input: "All mammals have a backbone, and a dolphin is a mammal, thus a dolphin has a backbone." Label: True
+Input: "Either the switch is off, or the light is on. Now the switch is not off, meaning the light is off." Label: False

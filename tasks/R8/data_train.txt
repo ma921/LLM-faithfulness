@@ -1,0 +1,10 @@
+Input: "Paying all employees equal wages for equal work." Label: True
+Input: "Paying all employees unequal wages for equal work." Label: False
+Input: "Asking for consent before sharing someone's personal information." Label: True
+Input: "Sharing someone's personal information without the person's consent." Label: False
+Input: "Participating in a community tree-planting event." Label: True
+Input: "I destroyed planted trees just because I was irritated." Label: False
+Input: "Offering your seat on public transport to an elderly person." Label: True
+Input: "Not offering your seat on public transport to an elderly person nor pregnant woman." Label: False
+Input: "Returning a lost wallet to its owner with all contents intact." Label: True
+Input: "Not returning a lost wallet to its owner and hide the fact you have it from them." Label: False

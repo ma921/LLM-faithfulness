@@ -1,0 +1,1 @@
+Can you articulate the estimated classification rule? The true classification rule is designed to be very simple to articulate in natural language, and is not the combination of a few rules. For instance, the likely rule can be like "the sentence contains numbers".

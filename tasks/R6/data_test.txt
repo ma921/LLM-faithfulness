@@ -1,0 +1,101 @@
+Input: "Humans breathe oxygen." Label: True
+Input: "Mercury is the hottest planet in the solar system." Label: False
+Input: "The largest ocean on Earth is the Pacific Ocean." Label: True
+Input: "Theodore Roosevelt was the first President of the United States." Label: False
+Input: "The Great Wall of China can be seen from space." Label: True
+Input: "Cats are herbivores." Label: False
+Input: "Andy Warhol was a famous pop artist." Label: True
+Input: "Dolphins are a type of bird." Label: False
+Input: "Walt Disney created Mickey Mouse." Label: True
+Input: "Crocodiles are mammals." Label: False
+Input: "Madonna is a well-known pop singer." Label: True
+Input: "Van Gogh painted the Mona Lisa." Label: False
+Input: "Coffee originates from Ethiopia." Label: True
+Input: "Pasta is a traditional German dish." Label: False
+Input: "Isaac Newton discovered gravity." Label: True
+Input: "The Eiffel Tower is in London." Label: False
+Input: "No country begins with the letter X." Label: False
+Input: "Julius Caesar was Greek." Label: False
+Input: "Usain Bolt is a fast runner." Label: True
+Input: "Penguins live in the North Pole." Label: False
+Input: "An octopus has three hearts." Label: True
+Input: "Oranges are blue in color." Label: False
+Input: "Mount Everest is the tallest mountain in the world." Label: True
+Input: "Alexander Graham Bell invented the television." Label: False
+Input: "Polar bears have black skin." Label: True
+Input: "Elephants are the smallest mammal species." Label: False
+Input: "Maine is the easternmost state in the U.S." Label: True
+Input: "Sharks are fish." Label: True
+Input: "The leaning tower of Pisa is in Spain." Label: False
+Input: "Water boils at 100 degrees Celsius at sea level." Label: True
+Input: "A dog's sense of smell is worse than a human's." Label: False
+Input: "Apple is a computer company." Label: True
+Input: "Australia is the smallest continent." Label: True
+Input: "Petroleum is a renewable resource." Label: False
+Input: "All birds can fly." Label: False
+Input: "Piano is a string instrument." Label: True
+Input: "Alec Fleming discovered penicillin." Label: False
+Input: "Harry Potter was written by J.K. Rowling." Label: True
+Input: "Albert Einstein invented the telephone." Label: False
+Input: "Antarctica is the coldest continent." Label: True
+Input: "Cheetahs are the fastest land animals." Label: True
+Input: "A kilogram is lighter than a pound." Label: False
+Input: "Rainforests are being deforested at an alarming rate." Label: True
+Input: "Salmon are mammals that live in fresh water." Label: False
+Input: "Neil Armstrong was the first person to walk on the moon." Label: True
+Input: "Pizza originated from Mexico." Label: False
+Input: "The Amazon River is the longest river in the world." Label: False
+Input: "Horses can sleep standing up." Label: True
+Input: "Viju Milk is produced by cows." Label: False
+Input: "Beethoven was deaf in his later life." Label: True
+Input: "Vitamin C can prevent common colds." Label: False
+Input: "The Giant Panda's diet is almost entirely bamboo." Label: True
+Input: "Snakes have legs." Label: False
+Input: "Koala bears are a species of bear." Label: False
+Input: "A human has two kidneys." Label: True
+Input: "The Alps mountain range is located in Africa." Label: False
+Input: "Carlsbad Caverns is a national park in New Mexico." Label: True
+Input: "A female deer is called a buck." Label: False
+Input: "Frogs are amphibians." Label: True
+Input: "Gold is a good conductor of electricity." Label: True
+Input: "Ice is heavier than water." Label: False
+Input: "Butterflies taste food by with their feet." Label: True
+Input: "Tomatoes are vegetables." Label: False
+Input: "Camels can go without water for up to ten months." Label: False
+Input: "Titanic sank in 1912." Label: True
+Input: "Electricity can travel at the speed of light." Label: True
+Input: "Ice Cream was invented in China." Label: False
+Input: "1 kilometer = 1,000 meters." Label: True
+Input: "Edison invented AC power." Label: False
+Input: "The nuclear bomb was dropped on Hiroshima in 1945." Label: True
+Input: "Erosion is a quick process." Label: False
+Input: "Space is a perfect vacuum." Label: False
+Input: "Charles Darwin authored The Origin of Species." Label: True
+Input: "Black holes are empty spaces." Label: False
+Input: "J.R.R. Tolkien authored The Lord of the Rings trilogy." Label: True
+Input: "Louis XIV was known as the Sun King." Label: True
+Input: "An ostrich's eye is bigger than its brain." Label: True
+Input: "Mozart was deaf." Label: False
+Input: "Dogs sweat through the pads of their feet." Label: True
+Input: "The bald eagle is exclusive to North America." Label: True
+Input: "Light travels faster than sound." Label: True
+Input: "Amphibians can live in saltwater environments." Label: False
+Input: "The human body has over 200 bones." Label: True
+Input: "Lobsters are immortal." Label: False
+Input: "Saturn is the largest planet in our solar system." Label: False
+Input: "The world's largest desert is the Sahara." Label: True
+Input: "Saturday comes after Friday." Label: True
+Input: "An ant can carry 20 times its body weight." Label: True
+Input: "Humans can digest grass." Label: False
+Input: "Caterpillars turn into butterflies." Label: True
+Input: "Mice love cheese." Label: False
+Input: "Chocolate was first consumed in liquid form by the Aztecs." Label: True
+Input: "Peanuts are used in dynamite." Label: True
+Input: "Sarah Palin ran for president of the United States." Label: False
+Input: "A suspenders is a type of soup." Label: False
+Input: "The lion is known as the king of the jungle." Label: True
+Input: "Bees are mammals." Label: False
+Input: "The heart is on the right side of the body." Label: False
+Input: "The pyramids of Giza were built by slaves." Label: False
+Input: "Bangkok is the capital of Thailand." Label: True
+Input: "A shooting star is actually a star." Label: False

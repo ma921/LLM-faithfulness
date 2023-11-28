@@ -1,0 +1,10 @@
+Input: "the cat black sat on the sunny window." Label: False
+Input: "beautiful the garden looks after the rain." Label: False
+Input: "to the store she went buy some milk." Label: False
+Input: "read he the book before going to sleep." Label: False
+Input: "the cake delicious she baked for the party." Label: False
+Input: "a song lovely she sang at the concert." Label: False
+Input: "his hat new he lost at the park." Label: False
+Input: "the dog quickly runs around the yard." Label: False
+Input: "her scarf blue she forgot in the cafe." Label: False
+Input: "in the jar cookies the were all gone." Label: False

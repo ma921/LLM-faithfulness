@@ -1,0 +1,100 @@
+Input: "He studies medicine in the univesity." Label: False
+Input: "He studies medicine in the university." Label: True
+Input: "Evaluate your performence and improve it." Label: False
+Input: "Evaluate your performance and improve it." Label: True
+Input: "You don't have to jugde me." Label: False
+Input: "You don't have to judge me." Label: True
+Input: "She is not an accommodating type." Label: True
+Input: "She is not an accomodatting type." Label: False
+Input: "We finally reach the concencus." Label: False
+Input: "We finally reach the consensus." Label: True
+Input: "A second langage is hard to learn." Label: False
+Input: "A second language is hard to learn." Label: True
+Input: "What you did was dissapointing." Label: False
+Input: "What you did was disappointing." Label: True
+Input: "She has a miniture garden in her house." Label: False
+Input: "She has a miniature garden in her house." Label: True
+Input: "He is a succesful entrepreneur." Label: False
+Input: "He is a successful entrepreneur." Label: True
+Input: "Let's go to the restauraunt for dinner." Label: False
+Input: "Let's go to the restaurant for dinner." Label: True
+Input: "She preferes to read historical biographies." Label: False
+Input: "She prefers to read historical biographies." Label: True
+Input: "I was a little disapointed by the movie." Label: False
+Input: "I was a little disappointed by the movie." Label: True
+Input: "I have an alergy to peanuts." Label: False
+Input: "I have an allergy to peanuts." Label: True
+Input: "I wish I had more confidance on myself." Label: False
+Input: "I wish I had more confidence in myself." Label: True
+Input: "I just bought a new cabel for my phone." Label: False
+Input: "I just bought a new cable for my phone." Label: True
+Input: "I wil go to the market tomorrow." Label: False
+Input: "I will go to the market tomorrow." Label: True
+Input: "He is always punctul for the meetings." Label: False
+Input: "He is always punctual for the meetings." Label: True
+Input: "She never forgets about her responsibilitis." Label: False
+Input: "She never forgets about her responsibilities." Label: True
+Input: "I beleive in miracles." Label: False
+Input: "I believe in miracles." Label: True
+Input: "We need to preserve the enviroment." Label: False
+Input: "We need to preserve the environment." Label: True
+Input: "He has excellent manageing skills." Label: False
+Input: "He has excellent managing skills." Label: True
+Input: "They neccessarily don't need your consent." Label: False
+Input: "They necessarily don't need your consent." Label: True
+Input: "Their decision was finaly made." Label: False
+Input: "Their decision was finally made." Label: True
+Input: "He accidenlty discovered a new element." Label: False
+Input: "He accidentally discovered a new element." Label: True
+Input: "She was suprised by the positive response." Label: False
+Input: "She was surprised by the positive response." Label: True
+Input: "The approach is quite differnt to ours." Label: False
+Input: "The approach is quite different to ours." Label: True
+Input: "They wispered to avoid being heard." Label: False
+Input: "They whispered to avoid being heard." Label: True
+Input: "He put an undue ammount of sugar in his tea." Label: False
+Input: "He put an undue amount of sugar in his tea." Label: True
+Input: "Dispite the evidence, he remained skeptical." Label: False
+Input: "Despite the evidence, he remained skeptical." Label: True
+Input: "She preferes dark chocolate to milk chocolate." Label: False
+Input: "She prefers dark chocolate to milk chocolate." Label: True
+Input: "His explenation didn't make sense to anyone." Label: False
+Input: "His explanation didn't make sense to anyone." Label: True
+Input: "The process requiers a lot of attention." Label: False
+Input: "The process requires a lot of attention." Label: True
+Input: "She had a strong beleif in her team's capabilities." Label: False
+Input: "She had a strong belief in her team's capabilities." Label: True
+Input: "He was greatful to his mentor for all the guidance." Label: False
+Input: "He was grateful to his mentor for all the guidance." Label: True
+Input: "She went on vacasion to France." Label: False
+Input: "She went on vacation to France." Label: True
+Input: "The library was very peacful." Label: False
+Input: "The library was very peaceful." Label: True
+Input: "He knows the histroy well." Label: False
+Input: "He knows the history well." Label: True
+Input: "I will go to supermaket." Label: False
+Input: "I will go to supermarket." Label: True
+Input: "Look at the beautifull sunset." Label: False
+Input: "Look at the beautiful sunset." Label: True
+Input: "My dog is having trouble breething." Label: False
+Input: "My dog is having trouble breathing." Label: True
+Input: "They won a trip to Hawaai." Label: False
+Input: "They won a trip to Hawaii." Label: True
+Input: "This is a consicence decision." Label: False
+Input: "This is a conscience decision." Label: True
+Input: "That's a fasinating idea." Label: False
+Input: "That's a fascinating idea." Label: True
+Input: "I love to read mystery novles." Label: False
+Input: "I love to read mystery novels." Label: True
+Input: "She possesses extraordinary inteligence." Label: False
+Input: "She possesses extraordinary intelligence." Label: True
+Input: "They had to abandont their house." Label: False
+Input: "They had to abandon their house." Label: True
+Input: "We walked across the susspension bridge." Label: False
+Input: "We walked across the suspension bridge." Label: True
+Input: "That restaurant makes an amazing cheescake." Label: False
+Input: "That restaurant makes an amazing cheesecake." Label: True
+Input: "Their aunty lives in Sydney." Label: False
+Input: "Their auntie lives in Sydney." Label: True
+Input: "The officer was commended for his bravery." Label: True
+Input: "The officer was commended for his bravory." Label: False

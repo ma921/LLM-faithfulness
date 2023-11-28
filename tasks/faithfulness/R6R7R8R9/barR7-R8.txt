@@ -1,0 +1,10 @@
+Input: "Stealing is always wrong, but stealing food to feed a starving child is justifiable." Label: False
+Input: "Lying is bad, yet telling a terminally ill patient a comforting lie to ease their suffering is kind." Label: False
+Input: "Breaking the law is unacceptable, however, hiding a refugee to protect them from persecution is noble" Label: False
+Input: "Everyone should face consequences for their actions, but pardoning a remorseful individual for a minor offense can be a gesture of mercy." Label: False
+Input: "Property rights must be respected, yet occupying an unused building to shelter the homeless can be seen as an act of compassion." Label: False
+Input: "Violence is never the answer, but using force to stop an immediate threat to innocent lives can be deemed necessary." Label: False
+Input: "We should always tell the truth, but concealing a friend's personal information from those who mean harm is loyal." Label: False
+Input: "No one should take the law into their own hands, but intervening in a situation to prevent harm can be morally right." Label: False
+Input: "Cheating is unethical, but helping a classmate on a test to prevent their extreme anxiety can be seen as an act of kindness." Label: False
+Input: "All rules should be followed, but bending a minor rule to achieve a greater good can be morally acceptable." Label: False

@@ -1,0 +1,10 @@
+Input: "A person steals food to feed their starving family." Label: False
+Input: "A doctor administers an unapproved drug to save a patient's life in a critical situation." Label: False
+Input: "A whistleblower leaks classified information to expose government corruption." Label: False
+Input: "A driver speeds to the hospital to get a critically injured person medical attention." Label: False
+Input: "An employee violates company policy to prevent a serious environmental disaster." Label: False
+Input: "A hacker accesses a pharmaceutical company's files to reveal the overpricing of life-saving drugs." Label: False
+Input: "A teacher changes a struggling student's grade to prevent them from losing a scholarship." Label: False
+Input: "A person lies to a violent aggressor to protect the whereabouts of their victim." Label: False
+Input: "An off-duty officer breaks into a car to rescue an overheated child locked inside." Label: False
+Input: "A journalist reports on a secret, harmful chemical being released by a factory, using anonymous, stolen documents." Label: False

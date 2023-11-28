@@ -1,0 +1,10 @@
+Input: "The colour of the sky at sunset was a beautiful pink and orange." Label: False
+Input: "She realised the answer to the puzzle just in time." Label: False
+Input: "The theatre downtown is showing a new play this week." Label: False
+Input: "He is keen on playing football every weekend with his friends." Label: False
+Input: "Her favourite subject at university is history." Label: False
+Input: "They travelled through Scotland last summer on holiday." Label: False
+Input: "The programme on the BBC last night was quite informative." Label: False
+Input: "She practises her violin for an hour every evening." Label: False
+Input: "The centre of the town was bustling with people." Label: False
+Input: "The flavour of the cake was a delightful mix of chocolate and strawberry." Label: False

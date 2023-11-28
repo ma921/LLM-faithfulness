@@ -1,0 +1,10 @@
+Input: "We has arrived at in Spain." Label: True
+Input: "Runs the dog in the park." Label: False
+Input: "The incident have occured last night." Label: True
+Input: "The house cold is." Label: False
+Input: "I love learning AI." Label: True
+Input: "A book to read she loves." Label: False
+Input: "The grass is always greener in the other side." Label: True
+Input: "My car blue is." Label: False
+Input: "Water boils at hundred degree." Label: True
+Input: "Went up Jack and Jill the hill." Label: False

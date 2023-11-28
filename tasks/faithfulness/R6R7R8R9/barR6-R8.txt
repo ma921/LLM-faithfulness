@@ -1,0 +1,10 @@
+Input: "All forms of violence are unacceptable." Label: False
+Input: "Santa Claus is watching to see if you're being good." Label: False
+Input: "Animals have the same rights as humans." Label: False
+Input: "All your dreams will come true if you believe in yourself." Label: False
+Input: "Everyone who works hard will become a millionaire." Label: False
+Input: "Lying is always wrong." Label: False
+Input: "Vaccines are 100% safe and effective." Label: False
+Input: "All people are born with the same abilities." Label: False
+Input: "Recycling alone can save the planet." Label: False
+Input: "Money can't buy happiness." Label: False

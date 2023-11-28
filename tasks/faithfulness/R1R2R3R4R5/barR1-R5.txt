@@ -1,0 +1,10 @@
+Input: "The SUN shines brightly in the BLUE sky." Label: False
+Input: "MUSIC can lift the SPIRITS and soothe the soul." Label: False
+Input: "A good LAUGH is the best medicine for a heavy HEART." Label: False
+Input: "READING a book opens up a WORLD of imagination and knowledge." Label: False
+Input: "FRIENDSHIP is a treasure that grows more VALUABLE over time." Label: False
+Input: "Traveling allows you to DISCOVER new cultures and PERSPECTIVES." Label: False
+Input: "The OCEAN'S vastness is both mesmerizing and MYSTERIOUS." Label: False
+Input: "A HEALTHY diet and regular EXERCISE are key to a balanced lifestyle." Label: False
+Input: "EDUCATION is the most powerful weapon which you can use to CHANGE the world." Label: False
+Input: "Every JOURNEY starts with a single STEP." Label: False

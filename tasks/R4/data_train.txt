@@ -1,0 +1,10 @@
+Input: "He is traveling to the conventional center." Label: True
+Input: "He is travelling to the conventional centre." Label: False
+Input: "The man organizes the desk." Label: True
+Input: "The man organises the desk." Label: False
+Input: "His favorite color is gray." Label: True
+Input: "His favourite colour is grey." Label: False
+Input: "The advisor's judgment was skeptical." Label: True
+Input: "The adviser's judgement was sceptical." Label: False
+Input: "Her jacket color was blue." Label: True
+Input: "Her jacket colour was blue." Label: False

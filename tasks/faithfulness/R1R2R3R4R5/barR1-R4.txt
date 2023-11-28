@@ -1,0 +1,10 @@
+Input: "The LIBERTY Bell is an iconic symbol of American FREEDOM and history." Label: False
+Input: "Colorful FALL foliage brings vibrant HUES to the landscapes of New England." Label: False
+Input: "Traveling across the UNITED States offers a diverse array of CULTURES and experiences." Label: False
+Input: "The GRAND Canyon's MAJESTIC beauty is a testament to nature's artistry." Label: False
+Input: "Hollywood is renowned for its GLAMOROUS film industry and CELEBRITIES." Label: False
+Input: "The MISSISSIPPI River is a vital ARTERY for commerce and transportation in America." Label: False
+Input: "Silicon Valley is a hub of INNOVATION and TECHNOLOGICAL advancements." Label: False
+Input: "The American DREAM is built on the ideals of FREEDOM and OPPORTUNITY." Label: False
+Input: "Baseball is often referred to as AMERICA'S favorite PASTIME." Label: False
+Input: "The LIBRARY of Congress houses a vast collection of KNOWLEDGE and resources." Label: False

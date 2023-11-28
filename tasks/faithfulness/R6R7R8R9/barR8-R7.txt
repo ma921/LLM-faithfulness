@@ -1,0 +1,10 @@
+Input: "Even though it saves lives, stealing medicine from a pharmacy is justified if one cannot afford it." Label: False
+Input: "Lying to a friend to avoid conflict is reasonable, as it maintains harmony." Label: False
+Input: "Polluting the environment is acceptable if it leads to significant economic growth." Label: False
+Input: "Avoiding taxes is smart if it increases personal wealth, even though it's at the expense of public services." Label: False
+Input: "Testing medical products on animals is justifiable if it results in human benefits." Label: False
+Input: "Discriminating based on age can be effective in job selection for physically demanding roles." Label: False
+Input: "Manipulating someone emotionally is effective for personal gain, even though it causes them harm." Label: False
+Input: "Sacrificing a few individuals' rights for the greater good can be justified in certain situations." Label: False
+Input: "Ignoring the needs of a minority group can be justified if it benefits the majority." Label: False
+Input: "Using cheap labor in poor countries is beneficial for maximizing corporate profits." Label: False

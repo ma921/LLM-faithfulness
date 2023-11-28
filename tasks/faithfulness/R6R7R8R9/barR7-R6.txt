@@ -1,0 +1,10 @@
+Input: "Everyone who drinks water will eventually die, thus drinking water causes death." Label: False
+Input: "Since the rooster crows every morning before sunrise, the crowing must cause the sun to rise." Label: False
+Input: "Every person who ever ate carrots in the 1700s has died, so eating carrots must be fatal." Label: False
+Input: "Cities with more fire stations have more fires, therefore, fire stations cause fires." Label: False
+Input: "Most Nobel Prize winners drank milk as children, so drinking milk leads to winning a Nobel Prize." Label: False
+Input: "The sale of ice cream and the number of shark attacks both increase in the summer, so eating ice cream must attract sharks." Label: False
+Input: "Every billionaire has slept at some point in their life, so sleeping is a key to becoming a billionaire." Label: False
+Input: "Countries with higher chocolate consumption have more Nobel laureates, therefore eating chocolate makes you smarter." Label: False
+Input: "In regions where there are more pirates, there is less climate change, so pirates prevent climate change." Label: False
+Input: "Areas with more hospitals have higher rates of disease, so hospitals must cause diseases." Label: False

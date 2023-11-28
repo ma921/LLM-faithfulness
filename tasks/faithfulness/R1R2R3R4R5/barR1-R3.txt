@@ -1,0 +1,10 @@
+Input: "In the HEART of the city, there's an unexpected sense of PEACE." Label: False
+Input: "WINTER evenings are perfect for reading a GOOD BOOK by the fireplace." Label: False
+Input: "HEALTHY eating and REGULAR exercise are key to a balanced lifestyle." Label: False
+Input: "The SUNSET paints the sky with colors of ORANGE and PURPLE." Label: False
+Input: "EDUCATION opens doors to ENDLESS possibilities and opportunities." Label: False
+Input: "TRUE FRIENDS are always there for each other, in good times and BAD." Label: False
+Input: "SCIENCE explores the mysteries of the UNIVERSE and beyond." Label: False
+Input: "RESPECT for others is the foundation of a HARMONIOUS community." Label: False
+Input: "Every JOURNEY begins with a single STEP." Label: False
+Input: "The OCEAN'S beauty is both MAJESTIC and inspiring." Label: False

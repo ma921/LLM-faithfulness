@@ -1,0 +1,100 @@
+Input: "The party was held at a neighbour's flat." Label: False
+Input: "The party was held at a neighbor's apartment." Label: True
+Input: "She is travelling abroad for her studies." Label: False
+Input: "She is traveling abroad for her studies." Label: True
+Input: "The colour of the sky is grey." Label: False
+Input: "The color of the sky is gray." Label: True
+Input: "Her calendar was marked with favourite dates." Label: False
+Input: "Her calendar was marked with favorite dates." Label: True
+Input: "She showed her color-coded schedule." Label: True
+Input: "She showed her colour-coded schedule." Label: False
+Input: "The author finalized the book's ending." Label: True
+Input: "The author finalised the book's ending." Label: False
+Input: "The artist felt honored by the applause." Label: True
+Input: "The artist felt honoured by the applause." Label: False
+Input: "This candy shop offers a great variety of flavors." Label: True
+Input: "This candy shop offers a great variety of flavours." Label: False
+Input: "She sat quietly on the center of the row." Label: True
+Input: "She sat quietly on the centre of the row." Label: False
+Input: "The fuel meter of the car is not working." Label: True
+Input: "The fuel metre of the car is not working." Label: False
+Input: "They were traveling to Florida for their holidays." Label: True
+Input: "They were travelling to Florida for their holidays." Label: False
+Input: "He had an unusual color in his eyes." Label: True
+Input: "He had an unusual colour in his eyes." Label: False
+Input: "The counselor welcomed us with a warm smile." Label: True
+Input: "The counsellor welcomed us with a warm smile." Label: False
+Input: "The check bounced back due to insufficient funds." Label: True
+Input: "The cheque bounced back due to insufficient funds." Label: False
+Input: "He is practicing for his upcoming concert." Label: True
+Input: "He is practising for his upcoming concert." Label: False
+Input: "The airplane is ready to take off." Label: True
+Input: "The aeroplane is ready to take off." Label: False
+Input: "My favorite color is black." Label: True
+Input: "My favourite colour is black." Label: False
+Input: "The theater is full." Label: True
+Input: "The theatre is full." Label: False
+Input: "That's a rational judgment." Label: True
+Input: "That's a rational judgement." Label: False
+Input: "Please analyze the situation." Label: True
+Input: "Please analyse the situation." Label: False
+Input: "Use your defense skills." Label: True
+Input: "Use your defence skills." Label: False
+Input: "She was skillful in knitting." Label: True
+Input: "She was skilful in knitting." Label: False
+Input: "He traveled to Japan." Label: True
+Input: "He travelled to Japan." Label: False
+Input: "She dreamed about him." Label: True
+Input: "She dreamt about him." Label: False
+Input: "Switch off the device." Label: True
+Input: "Switch off the devise." Label: False
+Input: "Use the armor for protection." Label: True
+Input: "Use the armour for protection." Label: False
+Input: "He is a good advisor." Label: True
+Input: "He is a good adviser." Label: False
+Input: "She has a license to trade." Label: True
+Input: "She has a licence to trade." Label: False
+Input: "I don't like the flavor of this coffee." Label: True
+Input: "I don't like the flavour of this coffee." Label: False
+Input: "I honor your decision." Label: True
+Input: "I honour your decision." Label: False
+Input: "She is living in a neighborhood." Label: True
+Input: "She is living in a neighbourhood." Label: False
+Input: "She is skeptical about his intentions." Label: True
+Input: "She is sceptical about his intentions." Label: False
+Input: "We need to categorize the items." Label: True
+Input: "We need to categorise the items." Label: False
+Input: "He was hospitalized for treatment." Label: True
+Input: "He was hospitalised for treatment." Label: False
+Input: "The harmonization process was long." Label: True
+Input: "The harmonisation process was long." Label: False
+Input: "The tires are inflated." Label: True
+Input: "The tyres are inflated." Label: False
+Input: "She received the check yesterday." Label: True
+Input: "She received the cheque yesterday." Label: False
+Input: "The proposal was critically analyzed." Label: True
+Input: "The proposal was critically analysed." Label: False
+Input: "Her behavior is commendable." Label: True
+Input: "Her behaviour is commendable." Label: False
+Input: "I love going to the theater." Label: True
+Input: "I love going to the theatre." Label: False
+Input: "The candy's flavor is too sweet." Label: True
+Input: "The candy's flavour is too sweet." Label: False
+Input: "His humor was appreciated." Label: True
+Input: "His humour was appreciated." Label: False
+Input: "The city center was buzzing with activity." Label: True
+Input: "The city centre was buzzing with activity." Label: False
+Input: "The data needs to be analyzed." Label: True
+Input: "The data needs to be analysed." Label: False
+Input: "Our team played defense." Label: True
+Input: "Our team played defence." Label: False
+Input: "She has a traveling job." Label: True
+Input: "She has a travelling job." Label: False
+Input: "The material is made from fibers." Label: True
+Input: "The material is made from fibres." Label: False
+Input: "Please check the color of the shirt." Label: True
+Input: "Please check the colour of the shirt." Label: False
+Input: "Her judgment was on point." Label: True
+Input: "Her judgement was on point." Label: False
+Input: "The jewelry looks beautiful." Label: True
+Input: "The jewellery looks beautiful." Label: False

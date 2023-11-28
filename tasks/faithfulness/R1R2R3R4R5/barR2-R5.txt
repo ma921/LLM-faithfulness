@@ -1,0 +1,10 @@
+Input: "She alwasy enjoys reading mystery novels on weekends." Label: False
+Input: "His freind recommended a great new coffee shop downtown." Label: False
+Input: "The library is hosting a speical event for young readers next week." Label: False
+Input: "He accidentally droped his phone in the pool." Label: False
+Input: "The flowers in the gardan are blooming beautifully this spring." Label: False
+Input: "She recieved an award for her outstanding community service." Label: False
+Input: "The documentary about ancient civilzations was incredibly intriguing." Label: False
+Input: "Her favorite subject in school is mathmatics." Label: False
+Input: "He was embarased when he forgot his lines during the play." Label: False
+Input: "They are excited to vist the new art exhibit at the museum." Label: False

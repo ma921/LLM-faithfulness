@@ -1,0 +1,10 @@
+Input: "The children walk on the mat." Label: True
+Input: "The childrens walks on the mat." Label: False
+Input: "The buildings were cold." Label: True
+Input: "The buildings was cold." Label: False
+Input: "I love to read books." Label: True
+Input: "I loves to read a books." Label: False
+Input: "The rain doesn't fall mainly in Spain." Label: True
+Input: "The rain don't falls mainly in the Spain" Label: False
+Input: "We write beautiful letters." Label: True
+Input: "We writes beautifully letters." Label: False

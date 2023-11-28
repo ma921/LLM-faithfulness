@@ -1,0 +1,1 @@
+I will give you the examples of classification results. You need to estimate the classification rule from the following examples.

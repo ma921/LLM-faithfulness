@@ -1,0 +1,10 @@
+Input: "To the store, she went yesterday to buy groceries." Label: False
+Input: "A beautiful painting, it was hanging in the museum." Label: False
+Input: "Every morning, his coffee he drinks before work." Label: False
+Input: "The movie last night, we watched was really good." Label: False
+Input: "In the garden, flowers she plants every spring." Label: False
+Input: "Her homework, she does after dinner every day." Label: False
+Input: "A new book, he bought at the bookstore." Label: False
+Input: "For her birthday, a cake her mother made." Label: False
+Input: "In the park, they play soccer on Saturdays." Label: False
+Input: "On the table, the keys are always left by him." Label: False

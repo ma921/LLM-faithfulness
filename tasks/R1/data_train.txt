@@ -1,0 +1,20 @@
+Input: "the cat sat on the mat." Label: True
+Input: "THE DOG RAN IN THE PARK." Label: False
+Input: "the house is cold." Label: True
+Input: "THE mat sat on the cat." Label: False
+Input: "the dog is adorable" Label: True
+Input: "I love learning AI." Label: False
+Input: "we are going to the park" Label: True
+Input: "SATURDAYS are for ADVENTURE." Label: False
+Input: "i ate an apple for breakfast" Label: True
+Input: "MACHINE LEARNING IS FASCINATING." Label: False
+Input: "she wears a black dress" Label: True
+Input: "HAPPY BIRTHDAY TO YOU!" Label: False
+Input: "he loves playing soccer" Label: True
+Input: "THIS is CREATIVITY." Label: False
+Input: "the apple fell from the tree" Label: True
+Input: "SHE LOVES TO read books" Label: False
+Input: "the grass is always greener on the other side" Label: True
+Input: "MY car is BLUE" Label: False
+Input: "water boils at hundred degrees" Label: True
+Input: "JACK and JILL WENT up THE HILL" Label: False

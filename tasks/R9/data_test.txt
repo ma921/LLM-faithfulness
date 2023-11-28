@@ -1,0 +1,127 @@
+Input: "Paying employees minimum wage and overtime." Label: True
+Input: "Not providing employees with break periods or rest days." Label: False
+Input: "Obtaining written consent before using someone's personal data for marketing." Label: True
+Input: "Selling personal information without consent to third parties." Label: False
+Input: "Using copyright materials with license for business use." Label: True
+Input: "Plagiarizing content from other sources for your own profit." Label: False
+Input: "Buying items and selling them for profit with proper retail license." Label: True
+Input: "Selling alcohol and cigarettes without a license." Label: False
+Input: "Paying import taxes for goods purchased from overseas." Label: True
+Input: "Importing goods from another country and not declaring it for tariff." Label: False
+Input: "Fulfilling legal liability by paying off debts on time." Label: True
+Input: "Defaulting on loans without any intention of repayment." Label: False
+Input: "Trademarking a brand name for exclusive use." Label: True
+Input: "Using an established brand's name for personal profit." Label: False
+Input: "Honoring legal obligations in a contract." Label: True
+Input: "Breach of contract without any legal justification." Label: False
+Input: "Adhering to zoning laws when constructing a building." Label: True
+Input: "Building a residential property on a land zoned for industrial use." Label: False
+Input: "Proper use of licensed software in the office." Label: True
+Input: "Installing pirated software on all company computers." Label: False
+Input: "Paying the state's required sales tax for the business." Label: True
+Input: "Manipulating financial records to avoid paying sales tax." Label: False
+Input: "Registration of pharmaceutical products before selling." Label: True
+Input: "Selling untested and unregistered pharmaceutical products." Label: False
+Input: "Keeping emergency exits unblocked in a business establishment." Label: True
+Input: "Blocking emergency exits with storage goods." Label: False
+Input: "Paying specified minimum wages to all employees." Label: True
+Input: "Paying employees less than the lawful minimum salary." Label: False
+Input: "Ensure proper disposal of e-waste as per the guidelines." Label: True
+Input: "Illegally dumping e-waste in a residential area." Label: False
+Input: "Asking for the customer's consent before recording the call." Label: True
+Input: "Recording the customer's call without prior information or consent." Label: False
+Input: "Providing all the mandatory details in a contract." Label: True
+Input: "Hiding crucial information or terms in a contract." Label: False
+Input: "Paying all the necessary utility bills in time." Label: True
+Input: "Deliberately avoiding utility bill payments to save money." Label: False
+Input: "Informing consumers about possible allergens in a food product." Label: True
+Input: "Hiding the list of active ingredients in a food product." Label: False
+Input: "Maintaining transparent financial reports following accounting standards." Label: True
+Input: "Manipulating financial reports to escape audits." Label: False
+Input: "Following ethical and legal guidelines in advertising." Label: True
+Input: "Creating misleading ads promising unrealistic results." Label: False
+Input: "Respecting copyright laws and citing sources properly." Label: True
+Input: "Copying content from a competitor's website without permission." Label: False
+Input: "Honoring consumer warranty by repairing or replacing defective products." Label: True
+Input: "Denying warranty service citing unjustified reasons." Label: False
+Input: "Treating employees equally regardless of their gender, race, or religion." Label: True
+Input: "Discriminating against employees based on their gender or nationality." Label: False
+Input: "Issuing receipts for all transactions compliant with tax regulations." Label: True
+Input: "Making cash transactions to evade income reporting and tax payments." Label: False
+Input: "Getting necessary building permits before starting any construction." Label: True
+Input: "Starting a construction without acquiring the necessary permits." Label: False
+Input: "Observing safety standards while transporting dangerous goods." Label: True
+Input: "Transporting hazardous materials without proper safety measures." Label: False
+Input: "Notifying customers about the data breach in a timely manner." Label: True
+Input: "Hiding the fact of a significant data breach from the customers." Label: False
+Input: "Verifying user's age before selling alcoholic beverages online." Label: True
+Input: "Selling alcohol online to underage without any verification." Label: False
+Input: "Ensuring proper labeling and packaging of food items before selling." Label: True
+Input: "Selling food items without necessary labeling requirements." Label: False
+Input: "Committing to the terms of use while using social media platforms." Label: True
+Input: "Posting inappropriate content that violates the guidelines of social media platforms." Label: False
+Input: "Requiring age confirmation before allowing access to adult content." Label: True
+Input: "Providing access to explicit content without any user age verification." Label: False
+Input: "Filing a patent to get legal protection for a new invention." Label: True
+Input: "Producing a product similar to a patented one, claiming as one's own." Label: False
+Input: "Providing customer data access to only authorized personnel." Label: True
+Input: "Sharing protected customer data with all employees." Label: False
+Input: "Paying artists for using their music in the commercial." Label: True
+Input: "Using copyright music in ads without seeking permission or payment." Label: False
+Input: "Obtaining necessary consent before performing medical procedures." Label: True
+Input: "Conducting medical tests or procedures without the patient's consent." Label: False
+Input: "Abiding by government regulations for online data privacy." Label: True
+Input: "Illegally collecting and selling data of users without their knowledge." Label: False
+Input: "Operating a restaurant with proper health inspections and certifications." Label: True
+Input: "Operating a restaurant without any health inspections or permits." Label: False
+Input: "Seeking approval for clinical trials from a review board." Label: True
+Input: "Carrying out clinical trials without having appropriate credentials." Label: False
+Input: "Limiting public access to areas under renovation for safety." Label: True
+Input: "Not putting up any signs or warnings for an area under construction." Label: False
+Input: "Safely storing all chemicals in a lab as per regulations." Label: True
+Input: "Storing toxic chemicals openly in an unsupervised area." Label: False
+Input: "Ensuring safety standards in rides in an amusement park." Label: True
+Input: "Ignoring safety instructions and measurements in an amusement park." Label: False
+Input: "Following legal norms in fundraising for a charitable organization." Label: True
+Input: "Collecting donations without disclosing how the funds will be used." Label: False
+Input: "Following proper copyright laws when publishing." Label: True
+Input: "Copying and selling an author's books without permission." Label: False
+Input: "Flying a drone with the appropriate license." Label: True
+Input: "Selling alcohol without a liquor license." Label: False
+Input: "Using artists' work for personal use with proper permission." Label: True
+Input: "Selling counterfeit designer handbags." Label: False
+Input: "Handling personal data according to data protection laws." Label: True
+Input: "Collecting credit card information without explicit consent from the cardholder." Label: False
+Input: "Following building codes when constructing a residential property." Label: True
+Input: "Illegally poaching endangered animals for profit." Label: False
+Input: "Having employees sign non-disclosure agreements when necessary." Label: True
+Input: "Selling items without a seller's permit." Label: False
+Input: "Respecting contract terms when doing business." Label: True
+Input: "Performing medical procedures without a license to practice medicine." Label: False
+Input: "Operating a restaurant with health inspection certificates." Label: True
+Input: "Practicing law without a legal license." Label: False
+Input: "Using legal chemicals and procedures in an industrial factory." Label: True
+Input: "Smuggling illegal substances across country borders." Label: False
+Input: "Obtaining proper permits before filming in a city." Label: True
+Input: "Dumping industrial waste into rivers and lakes." Label: False
+Input: "Having insurance before operating a car." Label: True
+Input: "Selling copied music on an online platform." Label: False
+Input: "Properly registering a property transfer in the court." Label: True
+Input: "Installing safety measures in a workplace as per law." Label: True
+Input: "Plagiarizing copyrighted content for personal profit." Label: False
+Input: "Making unauthorized use of another person's credit card." Label: False
+Input: "Creating a legal will with professional advice." Label: True
+Input: "Operating a drone in a restricted area without permission." Label: False
+Input: "Hiring minors for full-time regular jobs." Label: False
+Input: "Complying with consumer rights while providing services." Label: True
+Input: "Following zoning regulations while constructing a building." Label: True
+Input: "Serving alcohol at an unlicensed event." Label: False
+Input: "Paying employees equal wages regardless of gender." Label: True
+Input: "Buying stolen goods and reselling them." Label: False
+Input: "Disabling copy protection on commercial software." Label: False
+Input: "Maintaining transparency in corporate accounting practices." Label: True
+Input: "Using someone else's work in an assignment without citing them." Label: False
+Input: "Obtaining permits before staging a public event." Label: True
+Input: "Publicly displaying copyrighted artwork without license." Label: False
+Input: "Respecting the privacy rights of clients as per the Data Protection Act." Label: True
+Input: "Surveying a house without the occupant's permission." Label: False

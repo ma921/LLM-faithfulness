@@ -1,0 +1,100 @@
+Input: "we play soccer every week." Label: True
+Input: "TODAY is A good DAY." Label: False
+Input: "i love to listen to music" Label: True
+Input: "TRAINING the MODEL." Label: False
+Input: "the ball is round" Label: True
+Input: "I am a TEXT generator." Label: False
+Input: "he is wearing a red shirt" Label: True
+Input: "Let's WORK on the PROJECT." Label: False
+Input: "the earth rotates around the sun" Label: True
+Input: "MORNING is the best TIME of DAY." Label: False
+Input: "wishes do come true" Label: True
+Input: "AI is REVOLUTIONIZING the WORLD." Label: False
+Input: "cats are afraid of water" Label: True
+Input: "I LOVE tea." Label: False
+Input: "milk is good for health" Label: True
+Input: "THIS BOOK is AMAZING." Label: False
+Input: "we have a meeting tomorrow" Label: True
+Input: "WEEKENDS are for RELAXING." Label: False
+Input: "i can swim very well" Label: True
+Input: "ALWAYS do your BEST." Label: False
+Input: "the sky is clear" Label: True
+Input: "IT'S a SUNNY DAY." Label: False
+Input: "shadows are longer in the evening" Label: True
+Input: "GOOD NIGHT, sweet dream." Label: False
+Input: "it is a beautiful day" Label: True
+Input: "YOU'RE wrong." Label: False 
+Input: "birds fly in the sky" Label: True
+Input: "NEVER give UP." Label: False 
+Input: "rainbows appear after the rain" Label: True
+Input: "SHE is asleep." Label: False
+Input: "the dog is adorable" Label: True
+Input: "I love learning AI." Label: False
+Input: "we are going to the park" Label: True
+Input: "SATURDAYS ARE FOR ADVENTURE." Label: False
+Input: "i ate an apple for breakfast" Label: True
+Input: "MACHINE LEARNING IS FASCINATING." Label: False
+Input: "she wears a black dress" Label: True
+Input: "HAPPY BIRTHDAY TO YOU!" Label: False
+Input: "he loves playing soccer" Label: True
+Input: "THIS IS CREATIVITY." Label: False
+Input: "a day without laughter is a day wasted" Label: True
+Input: "YESTERDAY is history." Label: False
+Input: "open your eyes, look within" Label: True
+Input: "BELIEVE YOU can AND you're halfway there." Label: False
+Input: "life is really simple, but we insist on making it complicated" Label: True
+Input: "IT is NEVER too LATE to BE what YOU might HAVE been." Label: False
+Input: "she was too tired to think about it" Label: True
+Input: "YOU HAVE within YOU right NOW, everything YOU need." Label: False
+Input: "however difficult life may seem, there is always something you can do and succeed at" Label: True
+Input: "IF you can dream IT, you can DO it." Label: False
+Input: "he decided to leave her" Label: True
+Input: "WE are WHAT we REPEATEDLY do." Label: False
+Input: "today is your day, your mountain is waiting so get on your way" Label: True
+Input: "THE ONLY thing STANDING between YOU and YOUR goal IS the story YOU keep telling YOURSELF." Label: False
+Input: "we make a living by what we get, but we make a life by what we give" Label: True
+Input: "ALWAYS remember THAT you are ABSOLUTELY unique." Label: False
+Input: "good things come to those who wait" Label: True
+Input: "A journey OF a thousand MILES begins WITH a single STEP." Label: False
+Input: "courage does not always roar. sometimes courage is the quiet voice saying I will try again tomorrow" Label: True
+Input: "DREAM big AND dare TO fail." Label: False
+Input: "a bird does not sing because it has an answer it sings because it has a song" Label: True
+Input: "THE ONLY way TO do GREAT work IS to LOVE what YOU do." Label: False
+Input: "stay committed to your decisions, but stay flexible in your approach" Label: True
+Input: "I have FOUND that if YOU love life, LIFE will love YOU back." Label: False
+Input: "attempt the impossible in order to improve your work" Label: True
+Input: "LIFE is really all ABOUT giving and NOT getting." Label: False
+Input: "there are no shortcuts to any place worth going" Label: True
+Input: "LIFE is either A daring ADVENTURE or NOTHING at ALL." Label: False
+Input: "her heart ached for him" Label: True
+Input: "THE PURPOSE of LIFE is A life OF purpose." Label: False
+Input: "happiness is a choice that requires effort at times" Label: True
+Input: "DREAMING, after all, IS a form OF planning." Label: False
+Input: "his smile was as bright as the sun" Label: True
+Input: "IT does NOT matter HOW slowly YOU go AS long AS YOU do NOT stop." Label: False
+Input: "we are made wise not by the recollection of our past, but by the responsibility for our future" Label: True
+Input: "SUCCESS is NOT the KEY to HAPPINESS. Happiness IS the KEY to SUCCESS." Label: False
+Input: "love is an irresistible desire to be irresistibly desired" Label: True
+Input: "THE ultimate aim OF the ego IS not TO see something, BUT to BE something." Label: False
+Input: "it is never too late to be what you might have been" Label: True
+Input: "YOUR big OPPORTUNITY may be RIGHT where YOU are NOW." Label: False
+Input: "keep your face always toward the sunshine and shadows will fall behind you" Label: True
+Input: "SUCCESS is NOT just about MAKING money. IT'S about MAKING difference." Label: False
+Input: "it's not what you look at that matters, it's what you see" Label: True
+Input: "IT takes COURAGE to GROW up AND turn OUT to be WHO you REALLY are." Label: False
+Input: "as soon as you trust yourself, you will know how to live" Label: True
+Input: "NEVER regret ANYTHING that MADE you SMILE." Label: False
+Input: "a great man is always willing to be little" Label: True
+Input: "THE journey OF a thousand MILES begins WITH one STEP." Label: False
+Input: "not everything that is faced can be changed, but nothing can be changed until it is faced" Label: True
+Input: "BE not afraid OF going slowly, BE afraid ONLY of standing STILL." Label: False
+Input: "bananas are delicious." Label: True
+Input: "COOKIES are my FAVORITE SNACK." Label: False
+Input: "do you want to build a snowman?" Label: True
+Input: "HANGING out with my FRIENDS." Label: False
+Input: "lemurs are found in madagascar" Label: True
+Input: "I can BEAT the GAME." Label: False
+Input: "reading is a doorway to another world" Label: True
+Input: "TIME waits for NONE." Label: False
+Input: "the little red riding hood" Label: True
+Input: "THANK you for YOUR help." Label: False

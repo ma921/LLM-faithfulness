@@ -1,0 +1,101 @@
+Input: "If the sun rises, then it is day time. The sun is rising, hence it is night time." Label: False
+Input: "All humans breathe oxygen, and Bob is a human, thus Bob breathes oxygen." Label: True
+Input: "Multiple addition of 7 never results in an even number." Label: False
+Input: "If I don't water the plants, they will die. I am watering the plants, so they will not die." Label: True
+Input: "A fish, being a mammal, both swims and breathes air." Label: False
+Input: "If it is raining, streets will wet. It is not raining so streets must be dry." Label: True
+Input: "If a triangle has three sides, then the total degrees of the interior angles are 180. A triangle indeed has three sides, thus interior angles of a triangle sum up to 340." Label: False
+Input: "Adding 0 to any number doesn't change the number's value." Label: True
+Input: "Elephants, as common house pets, are easy to manage." Label: False
+Input: "If people exercise regularly, then they are healthy. I am healthy, which means I have exercised regularly." Label: False
+Input: "Tom is taller than John, John is taller than Karl, hence Tom is taller than Karl." Label: True
+Input: "Two angles that sum to 90 degrees are called complementary. The two angles are complementary, which mean they sum to 180 degrees." Label: False
+Input: "A car needs fuel to run. Thus, if a car is running, it has fuel." Label: True
+Input: "If a bird is a penguin, then it can fly. The bird is a penguin, so it can fly." Label: False
+Input: "Pizza, being a fruit, grows on trees." Label: False
+Input: "Square of an even number is always even." Label: True
+Input: "If all dogs bark, and Fido is a dog, then Fido barks." Label: True
+Input: "If it's sunny, then it can't be raining. But it's sunny and raining at the same time." Label: False
+Input: "In a leap year, February has 29 days." Label: True
+Input: "An object, if dropped, will fall upward." Label: False
+Input: "Either electricity is on, or the computer isn't working. The electricity is on, but still my computer isn't working." Label: False
+Input: "It is a given that 5 + 2 equals to 7." Label: True
+Input: "If words are letters strung together, and a sentence is words strung together, then a sentence should be letters." Label: False
+Input: "The product of any number and 1 is the number itself." Label: True
+Input: "Cacti are aquatic plants and live predominantly in water." Label: False
+Input: "Humans, as species of reptiles, lay eggs." Label: False
+Input: "Squares have four equal sides and four right angles." Label: True
+Input: "The sum of angles in a triangle always add up to 90 degrees." Label: False
+Input: "Parallels lines never intersect." Label: True
+Input: "Acute angles are greater than 90 degrees." Label: False
+Input: "Deciduous trees lose their leaves in autumn." Label: True
+Input: "Circle has two sides." Label: False
+Input: "Multiplying a number by 1 leaves it unchanged." Label: True
+Input: "The earth is flat and the sun revolves around it." Label: False
+Input: "Negative multiplied by negative gives a positive." Label: True
+Input: "All cats, as bird species, can fly." Label: False
+Input: "Triangles have three sides." Label: True
+Input: "Compliment of a 45-degree angle is 45 degrees." Label: True
+Input: "Every even number is divisible by 3." Label: False
+Input: "All whales are mammals and therefore have lungs." Label: True
+Input: "Penguins can fly because they are birds." Label: False
+Input: "Two plus two equals five." Label: False
+Input: "A week contains seven days." Label: True
+Input: "If Mark is older than Lisa, and Lisa is older than Pete, then Pete is older than Mark." Label: False
+Input: "Multiplying a negative number and a positive number always gives a negative result." Label: True
+Input: "Dogs, being amphibians, live both in water and land." Label: False
+Input: "Increase in demand always causes an increase in price." Label: True
+Input: "All apples are green. I am holding an apple, thus it must be green." Label: False
+Input: "Apple trees produce bananas." Label: False
+Input: "If it's cloudy, then the sun won't shine. It's sunny, so it must not be cloudy." Label: True
+Input: "The reverse of a palindrome word reads the same backward as forward." Label: True
+Input: "An object in motion, if not acted upon by force, will stop." Label: False
+Input: "A fully grown cat, being a mammal, has feathers." Label: False
+Input: "Rhombus has all its sides equal." Label: True
+Input: "If an object is blue, then it is a color. Blue is a color, thus it must be an object." Label: False
+Input: "Any number raised to the power of zero is one." Label: True
+Input: "The earth, being the center of the universe, orbits around the sun." Label: False
+Input: "A sheet of paper is a 3-dimensional object." Label: True
+Input: "Elephants can fit in a fridge because they are small." Label: False
+Input: "If X is greater than Y and Y is greater than Z, then X is definitely greater than Z." Label: True
+Input: "Every square is a rectangle, but not every rectangle is a square." Label: True
+Input: "An apple is a vegetable because it grows on a tree." Label: False
+Input: "Rain is wet because it has water." Label: True
+Input: "Human beings are capable of photosynthesis." Label: False
+Input: "All dogs can fly, and my pet is a dog, so my pet can fly." Label: False
+Input: "All squares have four edges, and a rectangle is a square, so a rectangle has four edges." Label: True
+Input: "Hawaii is in the Pacific Ocean. Since I am in Hawaii, I am in the Atlantic Ocean." Label: False
+Input: "A year is made up of 365 days except during leap years." Label: True
+Input: "A triangle has four sides." Label: False
+Input: "A circle is round." Label: True
+Input: "Every human being has three legs." Label: False
+Input: "The sun rises in the East and sets in the West." Label: True
+Input: "All flowers have petals, a rose is a flower, hence all roses have petals." Label: True
+Input: "All birds can fly, chickens are birds, hence all chickens can fly." Label: False
+Input: "An animal with fur might be a mammal." Label: True
+Input: "If wood is lighter than metal, a wooden box is necessarily lighter than a metal one, regardless of their size." Label: False
+Input: "Snakes, being mammals, have fur." Label: False
+Input: "In mathematics, division by zero is undefined." Label: True
+Input: "If John is older than Kim, and Kim is older than Alex, then Alex must be older than John." Label: False
+Input: "Dogs, being insects, have six legs." Label: False
+Input: "An odd number added to an odd number always results in an even number." Label: True
+Input: "If there is rain, then the ground is wet. It has not rained, therefore the ground is not wet." Label: False
+Input: "2 is a prime number because it has only two factors; 1 and itself." Label: True
+Input: "If x is greater than 10 and less than 5, x equals to 7." Label: False
+Input: "If it is sunny, I will go for a swim. It is sunny therefore I am swimming." Label: True
+Input: "As an Australian, I must be from Europe." Label: False 
+Input: "I got an A in maths therefore I am good at physics." Label: False
+Input: "If 3 books cost nine dollars, then one book costs three dollars." Label: True
+Input: "All squares are rectangles. This shape is a rectangle, therefore it must be a square." Label: False
+Input: "If the alarm goes off, then the cake is done. The cake is not done, therefore the alarm did not go off." Label: False
+Input: "A triangle has three sides and three angles, just like a circle." Label: False 
+Input: "If Side A is equal to Side B and Side B is equal to Side C in a triangle, it is an equilateral triangle." Label: True
+Input: "Since I am a human being, I must be an animal." Label: True
+Input: "If there are four apples on the table and I take three, I then have one apple." Label: False
+Input: "All dogs are mammals because they give birth to live young." Label: True
+Input: "If a drink is in a carton, it must be milk." Label: False
+Input: "All people with blue eyes have blue parents." Label: False
+Input: "If the addition of two numbers gives me 3, and one of the numbers is 2, the other number is 1." Label: True
+Input: "A square is a quadrilateral with all equal sides and angles, thus a rectangle is a square." Label: False
+Input: "Since cats are animals and animals breathe, hence cats breathe." Label: True
+Input: "Tom is taller than John. John is taller than Peter. Therefore, Peter is taller than Tom." Label: False

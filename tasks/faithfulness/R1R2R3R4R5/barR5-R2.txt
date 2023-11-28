@@ -1,0 +1,10 @@
+Input: "Tomorrow school I will go to." Label: False
+Input: "Beautifully the flowers bloom in the garden." Label: False
+Input: "Her birthday on Friday is." Label: False
+Input: "The cat on the mat sat quietly." Label: False
+Input: "A movie tonight we are watching." Label: False
+Input: "To the store, I need to go now." Label: False
+Input: "My homework I did after dinner." Label: False
+Input: "Reads the book every night he." Label: False
+Input: "A cake for her birthday she is baking." Label: False
+Input: "At the park, we are playing soccer." Label: False

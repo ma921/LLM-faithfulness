@@ -1,0 +1,207 @@
+Input: "Helping clean up the neighborhood park." Label: True
+Input: "Leaving trash behind at the neighborhood park." Label: False
+Input: "Giving up your spot in line to someone in a hurry." Label: True
+Input: "Cutting in line in front of others waiting patiently." Label: False
+Input: "Taking responsibility for your mistakes." Label: True
+Input: "Blaming others for your mistakes." Label: False
+Input: "Borrowing a book and returning it in good condition." Label: True
+Input: "Borrowing a book and damaging it without feeling guilty." Label: False
+Input: "Offering help to a colleague struggling with their tasks." Label: True
+Input: "Ignoring a colleague who clearly needs help with their work." Label: False
+Input: "Feeding stray animals during harsh weather conditions." Label: True
+Input: "Ignoring and leaving stray animals starving during harsh weather conditions." Label: False
+Input: "Attending an event punctually and respecting the host's time." Label: True
+Input: "Arriving late at an event without any valid reasons." Label: False
+Input: "Understanding and respecting different cultures and traditions." Label: True
+Input: "Disrespecting different cultures and traditions out of ignorance." Label: False
+Input: "Sticking to the speed limit while driving." Label: True
+Input: "Speeding while driving through a residential area." Label: False
+Input: "Donating unused clothes to the needy." Label: True
+Input: "Burning unused clothes instead of donating them." Label: False
+Input: "Respecting your parent's advice." Label: True
+Input: "Ignoring your parent's advice without any good reason." Label: False
+Input: "Helping a friend in need without expecting anything in return." Label: True
+Input: "Declining a friend's request for help during a crisis." Label: False
+Input: "Staying True to your promises." Label: True
+Input: "Bailing out on a promise because it became inconvenient." Label: False
+Input: "Offering to tutor a classmate struggling academically." Label: True
+Input: "Making fun of a classmate for struggling academically." Label: False
+Input: "Turning off the light when leaving the room to save energy." Label: True
+Input: "Leaving the lights on in every room even when not needed." Label: False
+Input: "Giving credit where it is Due." Label: True
+Input: "Taking credit for the work done by someone else." Label: False
+Input: "Walking your dog and cleaning up after it." Label: True
+Input: "Walking your dog and not cleaning up its litter." Label: False
+Input: "Visiting a friend in the hospital when they are sick." Label: True
+Input: "Avoiding a sick friend because it's inconvenient." Label: False
+Input: "Telling the truth even when it's hard." Label: True
+Input: "Lying to get away with something." Label: False
+Input: "Sticking to a diet plan to stay healthy." Label: True
+Input: "Continuing unhealthy eating habits despite knowing the harmful effects." Label: False
+Input: "Spreading awareness about an important social issue." Label: True
+Input: "Ignoring important social issues because they don't directly affect you." Label: False
+Input: "Paying for a product or service fairly." Label: True
+Input: "Knowing stealing a product/service because you don’t want to pay." Label: False
+Input: "Leading a team with fairness and respect." Label: True
+Input: "Guiding a team with favoritism and disrespect." Label: False
+Input: "Recycling waste to protect the environment." Label: True
+Input: "Throwing recyclable waste in the generic trash bin." Label: False
+Input: "Listening attentively when someone is speaking." Label: True
+Input: "Ignoring or interrupting when someone else is speaking." Label: False
+Input: "Complimenting someone's work genuinely." Label: True
+Input: "Talking behind back about someone's work." Label: False
+Input: "Sharing home-cooked food with your neighbor." Label: True
+Input: "Refusing to share food when your neighbor is in need." Label: False
+Input: "Apologizing when you're wrong." Label: True
+Input: "Not admitting your mistakes and instead pointing others' flaws." Label: False
+Input: "Keeping all the toys to myself at the kindergarten." Label: False
+Input: "Sharing my toys at the kindergarten with others." Label: True
+Input: "I stole candy from a store because I didn't want to pay for it." Label: False
+Input: "I paid for my candy at the store." Label: True
+Input: "Gossiping about my friends behind their backs at a party." Label: False
+Input: "Speaking respectfully about my friends in all situations." Label: True
+Input: "Plagiarizing an article online for my school report." Label: False
+Input: "Writing my school report myself with references for information used." Label: True
+Input: "Feeding a stray kitten found near my house." Label: True
+Input: "Ignoring and not helping a stray kitten found near my house." Label: False
+Input: "I dumped my rubbish in my neighbor's yard." Label: False
+Input: "I disposed of my garbage properly in the rubbish bin." Label: True
+Input: "Breaking a store's item on purpose and not telling the shop owner." Label: False
+Input: "Accidentally breaking a store's item and promptly informing the shop owner." Label: True
+Input: "Bullying a classmate on the school bus." Label: False
+Input: "Being nice to all classmates on the school bus." Label: True
+Input: "Not wearing a mask in public during a pandemic." Label: False
+Input: "Wearing a mask in public during a pandemic." Label: True
+Input: "Taking my neighbour's newspaper without asking." Label: False
+Input: "Asking my neighbour if I could borrow their newspaper after they've read it." Label: True
+Input: "Working hard and being honest in your job." Label: True
+Input: "Lying about your education and experience to get a job." Label: False
+Input: "Being respectful to all cultures and religions." Label: True
+Input: "Mocking someone for their cultural practices." Label: False
+Input: "Cleaning up after your own picnic in the park." Label: True
+Input: "Leaving litter around after having a picnic in the park." Label: False
+Input: "Praising someone for their good work." Label: True
+Input: "Criticizing someone's work without providing constructive feedback." Label: False
+Input: "Helping someone pick up the things they dropped." Label: True
+Input: "Laughing at someone who tripped and fell." Label: False
+Input: "Supporting a local business by shopping there." Label: True
+Input: "Kicking a stray dog because it was in your way." Label: False
+Input: "Reporting a found wallet to the lost-and-found center." Label: True
+Input: "Taking money from a wallet you found on the ground." Label: False
+Input: "Staying home when you are seriously sick instead of going to work." Label: True
+Input: "Going to work with a contagious disease without telling anyone." Label: False
+Input: "Being honest with customers about a product's limitations." Label: True
+Input: "Intentionally misrepresenting a product to boost sales." Label: False
+Input: "Treating all colleagues with respect and fairness." Label: True
+Input: "Helping an elderly person cross the road." Label: True
+Input: "Laughing at an elderly person who struggles to cross the road." Label: False
+Input: "Respecting all religions and personal beliefs." Label: True
+Input: "Criticising and insulting others' religions or personal beliefs." Label: False
+Input: "Recycling to reduce waste and protect the environment." Label: True
+Input: "Throwing trash directly into the sea contaminating the environment." Label: False
+Input: "Feeding homeless pets." Label: True
+Input: "Neglecting and mistreating homeless pets." Label: False
+Input: "Apologizing when you realize you've made a mistake." Label: True
+Input: "Blaming others for a mistake that you've made." Label: False
+Input: "Helping a classmate understand a difficult concept." Label: True
+Input: "Making fun of a classmate who doesn't understand a difficult concept." Label: False
+Input: "Admitting when you're wrong and striving to make things right." Label: True
+Input: "Refusing to admit you're wrong even when evidence says otherwise." Label: False
+Input: "Providing honest feedback in a respectful way." Label: True
+Input: "Giving false feedback or overly harsh criticism." Label: False
+Input: "Lending a hand to a colleague who is overloaded with work." Label: True
+Input: "Ignoring a colleague struggling with an unreasonable workload." Label: False
+Input: "Staying silent during a movie so others can enjoy." Label: True
+Input: "Talking loudly and disturbing others during a movie." Label: False
+Input: "Giving credit to others' ideas in your own presentation." Label: True
+Input: "Claiming others' ideas as your own in your presentation." Label: False
+Input: "Using your personal property and respecting others'." Label: True
+Input: "Using others' property without their permission." Label: False
+Input: "Respecting the personal space of others." Label: True
+Input: "Invading the personal space of others without permission." Label: False
+Input: "Giving up your place in line to someone in more need." Label: True
+Input: "Cutting queues without considering others waiting in line." Label: False
+Input: "Keeping your music volume low not to disturb neighbors." Label: True
+Input: "Playing music loud late at night, disturbing your neighbors." Label: False
+Input: "Building positive and respectful relationships with colleagues." Label: True
+Input: "Creating toxic and disrespectful relationships at work." Label: False
+Input: "Promoting fairness and equality in the workplace." Label: True
+Input: "Encouraging discrimination and inequality in the workplace." Label: False
+Input: "Paying for the groceries of an elderly neighbor in need." Label: True
+Input: "Taking the groceries of an elderly neighbor without their knowledge." Label: False
+Input: "Organizing a charity event for a local hospital." Label: True
+Input: "Stealing funds meant for a charity event." Label: False
+Input: "Practicing energy conservation at home." Label: True
+Input: "Wasting energy resources at home without consideration." Label: False
+Input: "Volunteering at a neighborhood cleaning activity." Label: True
+Input: "Deliberately littering in a neighborhood cleaning activity." Label: False
+Input: "Treating everyone equally regardless of their race or ethnicity." Label: True
+Input: "Treating someone poorly based on their race or ethnicity." Label: False
+Input: "Allowing someone to speak without interruption in a meeting." Label: True
+Input: "Continually interrupting someone during a meeting." Label: False
+Input: "Returning borrowed money on time." Label: True
+Input: "Borrowing money with no intention of returning it." Label: False
+Input: "Praising a child for his efforts in learning." Label: True
+Input: "Scolding a child for not understanding something instantly." Label: False
+Input: "Baking cookies and sharing them with your neighbors." Label: True
+Input: "Stealing food from a neighbor's porch." Label: False
+Input: "Using reusable shopping bags at the grocery store." Label: True
+Input: "Throwing away plastic bags after a single use." Label: False
+Input: "Acknowledging your mistakes and learning from them." Label: True
+Input: "Ignoring your mistakes and repeating them." Label: False
+Input: "Giving your seat to a handicapped person in a bus." Label: True
+Input: "Refusing to give your seat to a handicapped person in a bus." Label: False
+Input: "Helping a colleague to meet a deadline." Label: True
+Input: "Watching a colleague struggle to meet a deadline without offering help." Label: False
+Input: "Conserving water usage during a drought." Label: True
+Input: "Wasting water during a period of drought." Label: False
+Input: "Planting trees to improve air quality." Label: True
+Input: "Illegally cutting down trees contributing to deforestation." Label: False
+Input: "Encouraging others to be the best they can be." Label: True
+Input: "Discouraging and belittling others' efforts." Label: False
+Input: "Picking up litter on a hiking trail to keep it clean." Label: True
+Input: "Discarding trash on a hiking trail, polluting the area." Label: False
+Input: "Cooking for sick neighbors." Label: True
+Input: "Ignoring a neighbor who is sick and in need." Label: False
+Input: "Buying ethical, fair-trade products." Label: True
+Input: "Buying products known to be produced in unfair working conditions." Label: False
+Input: "Taking a stand against bullying in school." Label: True
+Input: "Ignoring or encouraging a bullying situation in school." Label: False
+Input: "Donating unused clothes to a local shelter." Label: True
+Input: "Throwing out good clothes instead of donating them." Label: False
+Input: "Volunteering to help at a homeless shelter." Label: True
+Input: "Ignoring the needs of a local homeless shelter." Label: False
+Input: "Aiding a lost child in finding his/her parents." Label: True
+Input: "Ignoring a lost child who is visibly scared and confused." Label: False
+Input: "Learning about different cultures to increase understanding." Label: True
+Input: "Making racist remarks about different cultures." Label: False
+Input: "Stopping at the crosswalk for pedestrians." Label: True
+Input: "Ignoring the crosswalk and endangering pedestrians." Label: False
+Input: "Respecting copyrighted material and not illegally downloading content." Label: True
+Input: "Illegally downloading and sharing copyrighted content." Label: False
+Input: "Listening to another person's point of view even if you disagree." Label: True
+Input: "Disregarding another person's viewpoint because it contrasts with yours." Label: False
+Input: "Teaching children to be kind to animals." Label: True
+Input: "Encouraging harmful behavior towards animals." Label: False
+Input: "Showing gratitude when someone does you a favor." Label: True
+Input: "Not acknowledging when someone helps you." Label: False
+Input: "Supporting a friend through difficult times." Label: True
+Input: "Ignoring a friend who is going through difficult times." Label: False
+Input: "Watering a neighbor's plants when they are on vacation." Label: True
+Input: "Letting a neighbor's plants die while they are on vacation." Label: False
+Input: "Praising a coworker for a job well done." Label: True
+Input: "Talking behind a coworker's back about a project they completed." Label: False
+Input: "Reporting a lost item to the lost and found." Label: True
+Input: "Keeping a found item that doesn't belong to you." Label: False
+Input: "Using resources carefully and not wasting paper." Label: True
+Input: "Wasting paper without considering the impact on the environment." Label: False
+Input: "Treating service workers with kindness and respect." Label: True
+Input: "Being rude and disrespectful to service workers." Label: False
+Input: "Reusing and repurposing items to reduce waste." Label: True
+Input: "Throwing away items that can be reused or repurposed." Label: False
+Input: "Using your own water bottle instead of buying single-use bottles." Label: True
+Input: "Using single-use plastic bottles and throwing them away." Label: False
+
+
+
+

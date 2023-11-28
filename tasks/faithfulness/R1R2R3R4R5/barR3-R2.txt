@@ -1,0 +1,10 @@
+Input: "She are going to the store for groceries." Label: False
+Input: "He books were left on the table." Label: False
+Input: "The cats eats their food every morning." Label: False
+Input: "We was excited to see the new movie." Label: False
+Input: "The teacher give us a lot of homework yesterday." Label: False
+Input: "They runs faster than anyone else in the class." Label: False
+Input: "This apples are very tasty." Label: False
+Input: "She do her best in every competition." Label: False
+Input: "The dog bark loudly every night." Label: False
+Input: "He have been to Paris last year." Label: False

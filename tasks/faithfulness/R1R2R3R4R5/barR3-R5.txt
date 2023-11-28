@@ -1,0 +1,10 @@
+Input: "She go to the gym every morning." Label: False
+Input: "He have two cats and a dog." Label: False
+Input: "We was at the concert last night." Label: False
+Input: "They eats pizza every Friday." Label: False
+Input: "I am understand the problem now." Label: False
+Input: "She do her homework in the evening." Label: False
+Input: "He don't like cold weather." Label: False
+Input: "They likes to travel to new places." Label: False
+Input: "It were raining all day yesterday." Label: False
+Input: "We is planning a party for her birthday." Label: False

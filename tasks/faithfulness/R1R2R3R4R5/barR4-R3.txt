@@ -1,0 +1,10 @@
+Input: "The colourful garden was a delight to see." Label: False
+Input: "She realised the solution just in time." Label: False
+Input: "The programme on British history was quite educational." Label: False
+Input: "His favourite sport is football, which he plays every weekend." Label: False
+Input: "They travelled through Europe last summer." Label: False
+Input: "The theatre in the town centre is staging a new play." Label: False
+Input: "She practises the piano for an hour every day." Label: False
+Input: "The aeroplane flew over the city, offering a breathtaking view." Label: False
+Input: "The shop specialises in handmade crafts." Label: False
+Input: "He is an expert in medieval literature." Label: False

@@ -1,0 +1,10 @@
+Input: "during the weekend, him and his friends went camping." Label: False
+Input: "she have two cats and three dogs in her house." Label: False
+Input: "the book on the table belong to me." Label: False
+Input: "there is many reasons why he didn't show up." Label: False
+Input: "it rain a lot in the spring season." Label: False
+Input: "they was excited about the upcoming concert." Label: False
+Input: "this are the best cookies she ever made." Label: False
+Input: "a group of birds is flying over the lake." Label: False
+Input: "her favorite flavor of ice cream were vanilla." Label: False
+Input: "every morning, he eat toast and eggs for breakfast." Label: False

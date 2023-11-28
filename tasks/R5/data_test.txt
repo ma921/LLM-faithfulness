@@ -1,0 +1,105 @@
+Input: "Cookies my mom baked." Label: False
+Input: "The quick brown fox jumps over a lazy dog." Label: True
+Input: "Dark is the night." Label: False
+Input: "She is walking her dog in the park." Label: True
+Input: "Is green the grass." Label: False
+Input: "My friends and I played soccer yesterday." Label: True
+Input: "Book read to like I." Label: False
+Input: "Temperature drops in winter." Label: True
+Input: "Happy he feels." Label: False
+Input: "The stars are shining bright tonight." Label: True
+Input: "Homework did he his." Label: False
+Input: "John is reading a book in the library." Label: True
+Input: "Hot is tea my." Label: False
+Input: "The baby is crying because he is hungry." Label: True
+Input: "Said he what was." Label: False
+Input: "Even the strongest of men have their moments of weakness." Label: True
+Input: "Walk to park the we." Label: False
+Input: "Chickens lay eggs." Label: True
+Input: "Running circles in she's." Label: False
+Input: "Mom is cooking dinner." Label: True
+Input: "Apples loves she." Label: False
+Input: "The bird is singing on the branch." Label: True
+Input: "Bicycle rides she her." Label: False
+Input: "The wind is blowing heavily today." Label: True
+Input: "Homework my completed I." Label: False
+Input: "She is learning how to swim." Label: True
+Input: "Cake the ate dog the." Label: False
+Input: "Fire is hot." Label: True
+Input: "Car his drives he." Label: False
+Input: "Mice eat cheese." Label: True
+Input: "Question the this is." Label: False
+Input: "Children love playing games." Label: True
+Input: "Theatre going to the they are." Label: False
+Input: "Rain falls from the sky." Label: True
+Input: "The ice cream started to melt." Label: True
+Input: "Night sky in the shooting stars." Label: False
+Input: "The tree is losing its leaves." Label: True
+Input: "Football playing he is." Label: False
+Input: "Rainbows appear after the rain." Label: True
+Input: "Drinks she coffee her morning every." Label: False
+Input: "Elephants are the largest land mammals." Label: True
+Input: "Talk don't at same the time." Label: False
+Input: "Watching TV can be a waste of time." Label: True
+Input: "The is apple on the table." Label: False
+Input: "The letter was written by John." Label: True
+Input: "His brushing is teeth he now." Label: False
+Input: "The ground is wet because it rained." Label: True
+Input: "Everyday the school goes he to." Label: False
+Input: "The sun sets in the west." Label: True
+Input: "Blue button the pressed you have." Label: False
+Input: "He likes to read books." Label: True
+Input: "Very he tired is now." Label: False
+Input: "The gate was left open by accident." Label: True
+Input: "Coat her put on she." Label: False
+Input: "Flowers bloom in spring." Label: True
+Input: "Exercising is good for health." Label: True
+Input: "To home returns he late often." Label: False
+Input: "My teacher is very strict." Label: True
+Input: "Noise the is too loud." Label: False
+Input: "It always rains in November." Label: True
+Input: "Bed to she goes early." Label: False
+Input: "George is going to the concert." Label: True
+Input: "Filling out the form, he is." Label: False
+Input: "Green is the color of nature." Label: True
+Input: "Milk drinks he." Label: False
+Input: "The train arrives at 5 o'clock." Label: True
+Input: "Likes he dancing." Label: False
+Input: "The weather is really cool." Label: True
+Input: "Books he has many." Label: False
+Input: "I prefer tea over coffee." Label: True
+Input: "We play football every Sunday." Label: True
+Input: "The singing is girl." Label: False
+Input: "She goes to school by bus." Label: True
+Input: "Playing children are the park in." Label: False
+Input: "I have two sisters." Label: True
+Input: "In the garden, butterflies are dancing." Label: True
+Input: "Late always he is." Label: False
+Input: "Neil is studying hard for his exams." Label: True
+Input: "Crying is the baby." Label: False
+Input: "I left my bag in the car." Label: True
+Input: "Petrol price includes taxes." Label: True
+Input: "Movies watching she loves." Label: False
+Input: "Helen is an intelligent girl." Label: True
+Input: "Doing is he what?" Label: False
+Input: "They travel a lot." Label: True
+Input: "For lunch, hamburgers we had." Label: False
+Input: "The class is busy with their work." Label: True
+Input: "Full the is glass." Label: False
+Input: "Lions are known as the king of the jungle." Label: True
+Input: "Likes she nocturnal animals." Label: False
+Input: "She often forgets her lunch." Label: True
+Input: "Started the show yet has not." Label: False
+Input: "The sunset is beautiful to watch." Label: True
+Input: "Eating bear the fish is." Label: False
+Input: "Rain makes everything beautiful." Label: True
+Input: "Drinking water she is." Label: False
+Input: "The ship is sailing in the sea." Label: True
+Input: "Dancing is she." Label: False
+Input: "He is painting a landscape." Label: True
+Input: "In the is summer season this." Label: False
+Input: "She bought a new pair of shoes." Label: True
+Input: "Running he in park the is." Label: False
+Input: "I spent my vacation in Paris." Label: True
+Input: "Task this is the finish we." Label: False
+Input: "He is the tallest guy in the class." Label: True
